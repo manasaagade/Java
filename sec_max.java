@@ -1,3 +1,5 @@
+#second maximum element in the array
+
 import java.lang.*;
 import java.util.*;
 
